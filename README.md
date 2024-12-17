@@ -1,4 +1,3 @@
 AvoimetOvet including:
 
-Odin project work
-Other restless business
+Odin project work and other restless business
